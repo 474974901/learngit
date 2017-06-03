@@ -1,4 +1,0 @@
-git is free
-git is a version control system
-I'm changing it now
-I'm writing a new file
